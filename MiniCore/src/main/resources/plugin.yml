@@ -1,0 +1,26 @@
+name: Core
+version: ${project.version}
+main: com.haksiu.core.Core
+api-version: 1.16
+authors: [ Haksiu ]
+commands:
+  day:
+    description: "Ustawiasz dzień na serwerze"
+    usage: /<command>
+  night:
+    description: "Ustawiasz noc na serwerze"
+    usage: /<command>
+  heal:
+    description: "Leczysz Siebie uzupełniając wszystkie serduszka"
+    usage: /<command>
+  feed:
+    description: "Uzupełniasz swój pasek głodu"
+    usage: /<command>
+  workbench:
+    aliases: ["wb"]
+    description: "Otwierasz przenośny crafting table"
+    usage: /<command>
+  enderchest:
+    aliases: ["ec"]
+    description: "Otwierasz przenośny enderchest"
+    usage: /<command>
