@@ -2,13 +2,13 @@
 
 Plugin zawierający jedynie 6 prostych komend.
 
-#Instrukcja instalacji
+# Instrukcja instalacji
 - Plik .jar wrzuć do folderu plugins
 - włącz serwer
 - jeżeli serwer jest włączony wystarczy wpisać /reload
 - enjoy
 
-#Spis komend
+# Spis komend
 - /day - Robisz dzień na serwerze
 - /night - Robisz noc na serwerze
 - /heal - Uzupełniasz wszystkie swoje serduszka
